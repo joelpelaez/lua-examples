@@ -1,0 +1,8 @@
+obj/
+
+.depends
+*.o
+*~
+*.tmp
+
+lua_example
